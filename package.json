@@ -1,0 +1,27 @@
+{
+  "name": "storage-ttl",
+  "version": "1.0.0",
+  "description": "localStorage objets and ttl manager Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JWebCoder/storage-ttl.git"
+  },
+  "keywords": [
+    "localstorage",
+    "ttl",
+    "object",
+    "json",
+    "storage",
+    "node"
+  ],
+  "author": "João Moura",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/JWebCoder/storage-ttl/issues"
+  },
+  "homepage": "https://github.com/JWebCoder/storage-ttl#readme"
+}
