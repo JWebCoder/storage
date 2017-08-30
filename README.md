@@ -74,7 +74,7 @@ Gets the stored keys count.
 const items = storage.all()
 ```
 
-Gets all the store keys.
+Gets all the stored keys.
 
 ## Contributing
 Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/JWebCoder/storage-ttl/issues)
@@ -86,5 +86,5 @@ Pull requests and stars are always welcome. For bugs and feature requests, [plea
 + [github/jwebcoder](https://github.com/jwebcoder)
 
 ## License
-Copyright (c) 2014 João Moura
-Released under the MIT license
+Copyright (c) 2017 João Moura
+Released under the BSD 2-clause "Simplified" License
